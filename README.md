@@ -1,0 +1,2 @@
+# Earthquake-analysis-project
+Python
